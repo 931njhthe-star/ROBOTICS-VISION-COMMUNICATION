@@ -51,6 +51,10 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 [![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg=480x270)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
 
 
+<a href="https://www.youtube.com/watch?v=j8W4xT0CCKo">
+  <img src="https://img.youtube.com/vi/j8W4xT0CCKo/hqdefault.jpg" width="480" alt="ROBOTWORLD 2018 PCB Assembly">
+</a>
+
 
 
 ## More Robotics & Vision Videos
