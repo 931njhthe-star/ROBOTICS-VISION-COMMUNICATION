@@ -44,8 +44,31 @@ I brought independently controlled robotics and vision equipment together into a
 
 
 
-## Integrated Equipment
+
+Integrated Equipment
 
 <img width="746" alt="Robotics and vision equipment used in the integrated demonstration" src="https://github.com/user-attachments/assets/d190bc1e-e112-4281-91ad-6e3438cf63f9" />
 
-**Equipment:** MiR AMR · Solomon 3D Vision · Doosan Robot Arms · Schunk Pneumatic Grippers
+Equipment: MiR AMR · Solomon 3D Vision · Doosan Robot Arms · Schunk Pneumatic Grippers
+
+Demonstration Videos
+
+3D Random Bin Picking
+
+MiR AMR Demonstration
+
+Doosan Robot Demonstration
+
+<img src="https://img.youtube.com/vi/r4SVLZ9_6kI/mqdefault.jpg" width="280" alt="Watch the 3D Random Bin Picking demonstration">
+
+<img src="https://img.youtube.com/vi/jG8LQChQEbk/mqdefault.jpg" width="280" alt="Watch the MiR demonstration">
+
+<img src="https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg" width="280" alt="Watch the Doosan robot demonstration">
+
+Watch video
+
+Watch video
+
+Watch video
+
+ROBOTWORLD 2018 highlight: The Doosan robot demonstration I planned, designed, and controlled received approximately 7.1K views, the highest view count among the six Doosan Robotics exhibition videos listed above.
