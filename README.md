@@ -48,30 +48,17 @@ I brought independently controlled robotics and vision equipment together into a
 
 I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately **7,100 views**, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
 
-
 <a href="https://www.youtube.com/watch?v=j8W4xT0CCKo">
   <img src="https://img.youtube.com/vi/j8W4xT0CCKo/hqdefault.jpg" width="640" alt="ROBOTWORLD 2018 PCB Assembly">
 </a>
 
-
-
-
-
-
-
-## Major Robotics Projects
-
-### ROBOTWORLD 2018 — Doosan PCB Assembly
-
-I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately **7,100 views**, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
-
-[![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
-
-### INA Oriental Motor — Robotics & 3D Bin Picking
+## INA Oriental Motor — Robotics & 3D Bin Picking
 
 At INA Oriental Motor, I integrated a MiR autonomous mobile robot, a Doosan six-axis robot, 3D vision-based object recognition, and pneumatic gripper control into a coordinated bin-picking system. I also connected device controllers through REST, TCP/IP, Modbus, and digital I/O.
 
-[![Robotics and 3D Bin Picking](https://img.youtube.com/vi/wLmfVy-GDSs/mqdefault.jpg)](https://www.youtube.com/watch?v=wLmfVy-GDSs)
+<a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
+  <img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="640" alt="Robotics and 3D Bin Picking">
+</a>
 
 **MiR AMR · Doosan Robot · Solomon 3D Vision · Pneumatic Gripper · REST · TCP/IP · Modbus · Digital I/O**
 
