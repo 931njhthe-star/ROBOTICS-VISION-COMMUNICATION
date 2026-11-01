@@ -51,3 +51,43 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 [![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
 
 
+
+
+
+
+
+
+Introduction Videos
+
+3D Random Bin Picking
+
+MiR AMR
+
+Doosan Robot
+
+
+
+
+
+
+
+Independently Implemented Work
+
+ROBOTWORLD 2018 — PCB Assembly
+
+I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately 7,100 views, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
+
+ROBOTWORLD 2018 PCB Assembly (thumbnail)
+
+Robotics & 3D Bin Picking
+
+Robotics and 3D Bin Picking (thumbnail)
+
+Additional Videos
+
+Video 1 (thumbnail)
+
+Video 2 (thumbnail)
+
+Video 3 (thumbnail)
+
