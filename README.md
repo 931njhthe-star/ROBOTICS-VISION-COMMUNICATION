@@ -45,6 +45,7 @@ I brought independently controlled robotics and vision equipment together into a
 | [![3D Random Bin Picking](https://img.youtube.com/vi/r4SVLZ9_6kI/mqdefault.jpg)](https://www.youtube.com/watch?v=r4SVLZ9_6kI) | [![MiR AMR](https://img.youtube.com/vi/jG8LQChQEbk/mqdefault.jpg)](https://www.youtube.com/watch?v=jG8LQChQEbk) | [![Doosan Robot](https://img.youtube.com/vi/DkI89e4N9vw/mqdefault.jpg)](https://www.youtube.com/watch?v=DkI89e4N9vw) |
 
 ## ROBOTWORLD 2018 — PCB Assembly
+### Most Popular Exhibition Video in ROBOTWORLD 2018
 
 I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately **7,100 views**, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
 
@@ -53,8 +54,10 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 </a>
 
 ## INA Oriental Motor — Robotics & 3D Bin Picking
+### 3× Faster, More Stable Exhibition System
 
-For ROBOTWORLD 2018, I planned a redesign of the overall system, including changes to the gripper and robot-arm mounting base. I modularized the key stages of the demonstration workflow to improve system stability and **optimized execution speed by more than 3×.**
+For ROBOTWORLD 2018, I planned a redesign of the overall system, including changes to the gripper and robot-arm mounting base. I modularized the key stages of the demonstration workflow **to improve system stability** and **increased execution speed by more than 3×.**
+
 
 <a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
   <img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="640" alt="Robotics and 3D Bin Picking">
