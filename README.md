@@ -4,12 +4,19 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 
 ## System Configuration
 
-| Component | Configuration |
+| **Component** | **Configuration** |
 |---|---|
 | Autonomous mobile robot | MiR AMR |
 | 3D vision system | Solomon 3D Vision |
 | Industrial robot arms | Two Doosan robots |
 | Grippers | Two Schunk pneumatic grippers |
+
+## Communication and Wiring
+
+- **Relay:** Wired the robot, pneumatic grippers, pneumatic equipment, Bluetooth box, and digital I/O connections.
+- **Bluetooth box (digital I/O):** Connected the MiR AMR and robot system.
+- **REST API:** Connected external web clients, such as smartphones, to the system.
+```
 
 ## Integration Overview
 
