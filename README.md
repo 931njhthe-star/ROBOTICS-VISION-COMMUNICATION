@@ -51,24 +51,24 @@ Integrated Equipment
 
 Equipment: MiR AMR · Solomon 3D Vision · Doosan Robot Arms · Schunk Pneumatic Grippers
 
-Demonstration Videos
+## Demonstration Videos
 
-3D Random Bin Picking
+### 3D Random Bin Picking
 
-MiR AMR Demonstration
+[![Watch the 3D Random Bin Picking demonstration](https://img.youtube.com/vi/r4SVLZ9_6kI/mqdefault.jpg)](https://www.youtube.com/watch?v=r4SVLZ9_6kI)
 
-Doosan Robot Demonstration
+[Watch on YouTube](https://www.youtube.com/watch?v=r4SVLZ9_6kI)
 
-<img src="https://img.youtube.com/vi/r4SVLZ9_6kI/mqdefault.jpg" width="280" alt="Watch the 3D Random Bin Picking demonstration">
+### MiR AMR Demonstration
 
-<img src="https://img.youtube.com/vi/jG8LQChQEbk/mqdefault.jpg" width="280" alt="Watch the MiR demonstration">
+[![Watch the MiR AMR demonstration](https://img.youtube.com/vi/jG8LQChQEbk/mqdefault.jpg)](https://www.youtube.com/watch?v=jG8LQChQEbk)
 
-<img src="https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg" width="280" alt="Watch the Doosan robot demonstration">
+[Watch on YouTube](https://www.youtube.com/watch?v=jG8LQChQEbk)
 
-Watch video
+### Doosan Robot Demonstration — ROBOTWORLD 2018
 
-Watch video
+I planned, designed, and controlled this Doosan robot demonstration. It received approximately **7,100 views**, the highest view count among the six Doosan Robotics videos from ROBOTWORLD 2018.
 
-Watch video
+[![Watch the Doosan robot demonstration](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
 
-ROBOTWORLD 2018 highlight: The Doosan robot demonstration I planned, designed, and controlled received approximately 7.1K views, the highest view count among the six Doosan Robotics exhibition videos listed above.
+[Watch on YouTube](https://www.youtube.com/watch?v=j8W4xT0CCKo)
