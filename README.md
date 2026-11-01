@@ -16,10 +16,12 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 
 | **Component** | **Configuration** |
 |---|---|
-| Autonomous mobile robot | MiR AMR |
-| 3D vision system | Solomon 3D Vision |
-| Industrial robot arms | Two Doosan robots |
-| Grippers | Two Schunk pneumatic grippers |
+| Autonomous mobile robot | [MiR AMR](https://mobile-industrial-robots.com/) |
+| 3D vision system | [Solomon 3D Vision](https://www.solomon-3d.com/) |
+| Industrial robot arms | [Two Doosan 6-axis collaborative robots](https://www.doosanrobotics.com/en) |
+| Grippers | [Two Schunk pneumatic grippers](https://schunk.com/us/en/products/current-highlights/pneumatic-gripping) |
+
+**Additional integration:** Connected a separate 6-axis robot (model undisclosed) with an external LMS device.
 
 ## Communication and Wiring
 
