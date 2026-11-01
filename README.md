@@ -6,6 +6,12 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 
 <img width="1101" alt="Integrated robotics and vision demonstration setup" src="https://github.com/user-attachments/assets/e3afdc52-5df4-48cd-9079-d1d4448af580" />
 
+## Device Connections and Exhibition Setup
+
+| Initial cable routing | Organized connections | Exhibition-day setup |
+|---|---|---|
+| <img width="220" alt="Initial cable routing between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/2ccf3928-5214-479e-8f41-16fa30560c86" /> | <img width="220" alt="Organized cabling between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/7fc0e9f2-be73-4037-80d6-06f917404848" /> | <img width="220" alt="Cable management on the day of the exhibition" src="https://github.com/user-attachments/assets/81608800-e51b-41e9-90d3-67fe5e3cc689" /> |
+
 ## My Role
 
 I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
@@ -32,11 +38,7 @@ I brought independently controlled robotics and vision equipment together into a
 - **REST API:** Connected external web clients, such as smartphones, to the system.
 
 
-## Device Connections and Exhibition Setup
 
-| Initial cable routing | Organized connections | Exhibition-day setup |
-|---|---|---|
-| <img width="220" alt="Initial cable routing between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/2ccf3928-5214-479e-8f41-16fa30560c86" /> | <img width="220" alt="Organized cabling between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/7fc0e9f2-be73-4037-80d6-06f917404848" /> | <img width="220" alt="Cable management on the day of the exhibition" src="https://github.com/user-attachments/assets/81608800-e51b-41e9-90d3-67fe5e3cc689" /> |
 
 ## Integrated Equipment
 
