@@ -62,38 +62,10 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 ## More Robotics & Vision Videos
 
-## More Robotics & Vision Videos
-
-### Robotics & 3D Bin Picking
-
-<a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
-  <img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="640" alt="Robotics & 3D Bin Picking">
-</a>
-
-At INA Oriental Motor, I integrated 3D vision-based object recognition, robot control, and pneumatic gripping into a coordinated bin-picking workflow.
-
-**Solomon 3D Vision · Doosan Robot · Pneumatic Gripper**
-
-### Additional Robotics Video
-
-<a href="https://www.youtube.com/watch?v=RHgJmrWYtLk">
-  <img src="https://img.youtube.com/vi/RHgJmrWYtLk/hqdefault.jpg" width="640" alt="Additional Robotics Video">
-</a>
-
-Add a description of this video.
-
-### Additional Robotics Video
-
-<a href="https://www.youtube.com/watch?v=0BtKEJwmyxo">
-  <img src="https://img.youtube.com/vi/0BtKEJwmyxo/hqdefault.jpg" width="640" alt="Additional Robotics Video">
-</a>
-
-Add a description of this video.
-
-### Additional Robotics Video
-
-<a href="https://www.youtube.com/watch?v=cSJP_ijoDY4">
-  <img src="https://img.youtube.com/vi/cSJP_ijoDY4/hqdefault.jpg" width="640" alt="Additional Robotics Video">
-</a>
-
-Add a description of this video.
+| **Robotics & 3D Bin Picking** | **Robotics Introduction** |
+|:---:|:---:|
+| [<img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="400" alt="Robotics and 3D Bin Picking">](https://www.youtube.com/watch?v=wLmfVy-GDSs) | [<img src="https://img.youtube.com/vi/RHgJmrWYtLk/hqdefault.jpg" width="400" alt="Robotics introduction">](https://www.youtube.com/watch?v=RHgJmrWYtLk) |
+| At INA Oriental Motor, I integrated 3D vision-based object recognition, robot control, and pneumatic gripping into a coordinated bin-picking workflow.<br><br>**Solomon 3D Vision · Doosan Robot · Pneumatic Gripper** | Add a description of this video.<br><br>**Robotics · System Integration** |
+| **Robotics Introduction** | **Robotics Introduction** |
+| [<img src="https://img.youtube.com/vi/0BtKEJwmyxo/hqdefault.jpg" width="400" alt="Robotics introduction">](https://www.youtube.com/watch?v=0BtKEJwmyxo) | [<img src="https://img.youtube.com/vi/cSJP_ijoDY4/hqdefault.jpg" width="400" alt="Robotics introduction">](https://www.youtube.com/watch?v=cSJP_ijoDY4) |
+| Add a description of this video.<br><br>**Robotics · System Integration** | Add a description of this video.<br><br>**Robotics · System Integration** |
