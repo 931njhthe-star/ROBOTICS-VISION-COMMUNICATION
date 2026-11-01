@@ -54,7 +54,7 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 ## INA Oriental Motor — Robotics & 3D Bin Picking
 
-At INA Oriental Motor, I integrated a MiR autonomous mobile robot, a Doosan six-axis robot, 3D vision-based object recognition, and pneumatic gripper control into a coordinated bin-picking system. I also connected device controllers through REST, TCP/IP, Modbus, and digital I/O.
+For ROBOTWORLD 2018, I modularized the key stages of the demonstration workflow and **improved execution speed by more than 3×.**
 
 <a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
   <img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="640" alt="Robotics and 3D Bin Picking">
