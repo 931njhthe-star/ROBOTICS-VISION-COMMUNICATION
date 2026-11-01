@@ -16,7 +16,9 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 - **Relay:** Wired the robot, pneumatic grippers, pneumatic equipment, Bluetooth box, and digital I/O connections.
 - **Bluetooth box (digital I/O):** Connected the MiR AMR and robot system.
 - **REST API:** Connected external web clients, such as smartphones, to the system.
-```
+
+
+
 
 ## Integration Overview
 
