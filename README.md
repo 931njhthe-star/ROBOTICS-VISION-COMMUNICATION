@@ -29,7 +29,6 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 - **Bluetooth box (digital I/O):** Connected the MiR AMR and robot system.
 - **REST API:** Connected external web clients, such as smartphones, to the system.
 
-
 ## My Role
 
 I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
@@ -38,18 +37,6 @@ I brought independently controlled robotics and vision equipment together into a
 - Coordinated communication and control across the connected equipment.
 - Organized and checked system cabling during installation.
 - Supported final system setup and operational readiness for the exhibition.
-
-
-
-
-
-
-
-## Integrated Equipment
-
-<img width="746" alt="Robotics and vision equipment used in the integrated demonstration" src="https://github.com/user-attachments/assets/d190bc1e-e112-4281-91ad-6e3438cf63f9" />
-
-Equipment: MiR AMR · Solomon 3D Vision · Doosan Robot Arms · Schunk Pneumatic Grippers
 
 ## Introduction Videos
 
