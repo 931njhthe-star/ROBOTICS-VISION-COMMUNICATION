@@ -62,10 +62,51 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 ## More Robotics & Vision Videos
 
-| **Robotics & 3D Bin Picking** | **Robotics Introduction** |
-|:---:|:---:|
-| [<img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="400" alt="Robotics and 3D Bin Picking">](https://www.youtube.com/watch?v=wLmfVy-GDSs) | [<img src="https://img.youtube.com/vi/RHgJmrWYtLk/hqdefault.jpg" width="400" alt="Robotics introduction">](https://www.youtube.com/watch?v=RHgJmrWYtLk) |
-| At INA Oriental Motor, I integrated 3D vision-based object recognition, robot control, and pneumatic gripping into a coordinated bin-picking workflow.<br><br>**Solomon 3D Vision · Doosan Robot · Pneumatic Gripper** | Add a description of this video.<br><br>**Robotics · System Integration** |
-| **Robotics Introduction** | **Robotics Introduction** |
-| [<img src="https://img.youtube.com/vi/0BtKEJwmyxo/hqdefault.jpg" width="400" alt="Robotics introduction">](https://www.youtube.com/watch?v=0BtKEJwmyxo) | [<img src="https://img.youtube.com/vi/cSJP_ijoDY4/hqdefault.jpg" width="400" alt="Robotics introduction">](https://www.youtube.com/watch?v=cSJP_ijoDY4) |
-| Add a description of this video.<br><br>**Robotics · System Integration** | Add a description of this video.<br><br>**Robotics · System Integration** |
+## More Robotics & Vision Videos
+
+<table>
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
+  <tr>
+    <th>Robotics &amp; 3D Bin Picking</th>
+    <th>Robotics Introduction</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
+        <img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="420" alt="Robotics and 3D Bin Picking">
+      </a>
+      <p>At INA Oriental Motor, I integrated 3D vision-based object recognition, robot control, and pneumatic gripping into a coordinated bin-picking workflow.</p>
+      <p><strong>Solomon 3D Vision · Doosan Robot · Pneumatic Gripper</strong></p>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=RHgJmrWYtLk">
+        <img src="https://img.youtube.com/vi/RHgJmrWYtLk/hqdefault.jpg" width="420" alt="Robotics introduction">
+      </a>
+      <p>Add a description of this video.</p>
+      <p><strong>Robotics · System Integration</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <th>Robotics Introduction</th>
+    <th>Robotics Introduction</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=0BtKEJwmyxo">
+        <img src="https://img.youtube.com/vi/0BtKEJwmyxo/hqdefault.jpg" width="420" alt="Robotics introduction">
+      </a>
+      <p>Add a description of this video.</p>
+      <p><strong>Robotics · System Integration</strong></p>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=cSJP_ijoDY4">
+        <img src="https://img.youtube.com/vi/cSJP_ijoDY4/hqdefault.jpg" width="420" alt="Robotics introduction">
+      </a>
+      <p>Add a description of this video.</p>
+      <p><strong>Robotics · System Integration</strong></p>
+    </td>
+  </tr>
+</table>
