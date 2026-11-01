@@ -2,6 +2,20 @@
 
 I integrated a coordinated robotics demonstration system combining a MiR autonomous mobile robot, Solomon 3D vision, two Doosan robot arms, and two Schunk pneumatic grippers. My work covered device communication, control coordination, system wiring, and exhibition setup.
 
+## Integration Overview
+
+<img width="1101" alt="Integrated robotics and vision demonstration setup" src="https://github.com/user-attachments/assets/e3afdc52-5df4-48cd-9079-d1d4448af580" />
+
+## My Role
+
+I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
+
+- Integrated the mobile robot, vision system, robot arms, and grippers into one demonstration setup.
+- Coordinated communication and control across the connected equipment.
+- Organized and checked system cabling during installation.
+- Supported final system setup and operational readiness for the exhibition.
+
+
 ## System Configuration
 
 | **Component** | **Configuration** |
@@ -17,21 +31,6 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 - **Bluetooth box (digital I/O):** Connected the MiR AMR and robot system.
 - **REST API:** Connected external web clients, such as smartphones, to the system.
 
-
-
-
-## Integration Overview
-
-<img width="1101" alt="Integrated robotics and vision demonstration setup" src="https://github.com/user-attachments/assets/e3afdc52-5df4-48cd-9079-d1d4448af580" />
-
-## My Role
-
-I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
-
-- Integrated the mobile robot, vision system, robot arms, and grippers into one demonstration setup.
-- Coordinated communication and control across the connected equipment.
-- Organized and checked system cabling during installation.
-- Supported final system setup and operational readiness for the exhibition.
 
 ## Device Connections and Exhibition Setup
 
