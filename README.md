@@ -12,16 +12,6 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 |---|---|---|
 | <img width="220" alt="Initial cable routing between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/2ccf3928-5214-479e-8f41-16fa30560c86" /> | <img width="220" alt="Organized cabling between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/7fc0e9f2-be73-4037-80d6-06f917404848" /> | <img width="220" alt="Cable management on the day of the exhibition" src="https://github.com/user-attachments/assets/81608800-e51b-41e9-90d3-67fe5e3cc689" /> |
 
-## My Role
-
-I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
-
-- Integrated the mobile robot, vision system, robot arms, and grippers into one demonstration setup.
-- Coordinated communication and control across the connected equipment.
-- Organized and checked system cabling during installation.
-- Supported final system setup and operational readiness for the exhibition.
-
-
 ## System Configuration
 
 | **Component** | **Configuration** |
@@ -36,6 +26,18 @@ I brought independently controlled robotics and vision equipment together into a
 - **Relay:** Wired the robot, pneumatic grippers, pneumatic equipment, Bluetooth box, and digital I/O connections.
 - **Bluetooth box (digital I/O):** Connected the MiR AMR and robot system.
 - **REST API:** Connected external web clients, such as smartphones, to the system.
+
+
+## My Role
+
+I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
+
+- Integrated the mobile robot, vision system, robot arms, and grippers into one demonstration setup.
+- Coordinated communication and control across the connected equipment.
+- Organized and checked system cabling during installation.
+- Supported final system setup and operational readiness for the exhibition.
+
+
 
 
 
