@@ -59,54 +59,38 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 
 
+## Major Robotics Projects
 
-## More Robotics & Vision Videos
+### ROBOTWORLD 2018 — Doosan PCB Assembly
 
-## More Robotics & Vision Videos
+I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately **7,100 views**, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
 
-<table>
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
-  <tr>
-    <th>Robotics &amp; 3D Bin Picking</th>
-    <th>Robotics Introduction</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
-        <img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="420" alt="Robotics and 3D Bin Picking">
-      </a>
-      <p>At INA Oriental Motor, I integrated 3D vision-based object recognition, robot control, and pneumatic gripping into a coordinated bin-picking workflow.</p>
-      <p><strong>Solomon 3D Vision · Doosan Robot · Pneumatic Gripper</strong></p>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=RHgJmrWYtLk">
-        <img src="https://img.youtube.com/vi/RHgJmrWYtLk/hqdefault.jpg" width="420" alt="Robotics introduction">
-      </a>
-      <p>Add a description of this video.</p>
-      <p><strong>Robotics · System Integration</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <th>Robotics Introduction</th>
-    <th>Robotics Introduction</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=0BtKEJwmyxo">
-        <img src="https://img.youtube.com/vi/0BtKEJwmyxo/hqdefault.jpg" width="420" alt="Robotics introduction">
-      </a>
-      <p>Add a description of this video.</p>
-      <p><strong>Robotics · System Integration</strong></p>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=cSJP_ijoDY4">
-        <img src="https://img.youtube.com/vi/cSJP_ijoDY4/hqdefault.jpg" width="420" alt="Robotics introduction">
-      </a>
-      <p>Add a description of this video.</p>
-      <p><strong>Robotics · System Integration</strong></p>
-    </td>
-  </tr>
-</table>
+[![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
+
+### INA Oriental Motor — Robotics & 3D Bin Picking
+
+At INA Oriental Motor, I integrated a MiR autonomous mobile robot, a Doosan six-axis robot, 3D vision-based object recognition, and pneumatic gripper control into a coordinated bin-picking system. I also connected device controllers through REST, TCP/IP, Modbus, and digital I/O.
+
+[![Robotics and 3D Bin Picking](https://img.youtube.com/vi/wLmfVy-GDSs/mqdefault.jpg)](https://www.youtube.com/watch?v=wLmfVy-GDSs)
+
+**MiR AMR · Doosan Robot · Solomon 3D Vision · Pneumatic Gripper · REST · TCP/IP · Modbus · Digital I/O**
+
+## Other Videos
+
+### Robotics Introduction
+
+[![Robotics introduction](https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg)](https://www.youtube.com/watch?v=RHgJmrWYtLk)
+
+Add a description of this video.
+
+### Robotics Introduction
+
+[![Robotics introduction](https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg)](https://www.youtube.com/watch?v=0BtKEJwmyxo)
+
+Add a description of this video.
+
+### Robotics Introduction
+
+[![Robotics introduction](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4)
+
+Add a description of this video.
