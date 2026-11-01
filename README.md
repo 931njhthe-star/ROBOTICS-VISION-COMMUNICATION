@@ -51,17 +51,6 @@ I brought independently controlled robotics and vision equipment together into a
 
 Equipment: MiR AMR · Solomon 3D Vision · Doosan Robot Arms · Schunk Pneumatic Grippers
 
-## Demonstration Videos
-
-| **3D Random Bin Picking** | **MiR AMR Demonstration** | **Doosan PCB Assembly — ROBOTWORLD 2018** |
-|---|---|---|
-| [![3D Random Bin Picking](https://img.youtube.com/vi/r4SVLZ9_6kI/mqdefault.jpg)](https://www.youtube.com/watch?v=r4SVLZ9_6kI) | [![MiR AMR Demonstration](https://img.youtube.com/vi/jG8LQChQEbk/mqdefault.jpg)](https://www.youtube.com/watch?v=jG8LQChQEbk) | [![Doosan PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo) |
-| Vision-guided bin picking | MiR mobile robot integration | **PCB assembly concept proposed and robot control implemented by me.** About **7.1K views**, the highest among six Doosan Robotics ROBOTWORLD 2018 videos. |
-
-
-
-
-
 ## Introduction Videos
 
 | **3D Random Bin Picking** | **MiR AMR** | **Doosan Robot** |
