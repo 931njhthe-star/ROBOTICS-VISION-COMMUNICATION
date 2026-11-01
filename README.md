@@ -50,7 +50,7 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 
 <a href="https://www.youtube.com/watch?v=j8W4xT0CCKo">
-  <img src="https://img.youtube.com/vi/j8W4xT0CCKo/hqdefault.jpg" width="480" alt="ROBOTWORLD 2018 PCB Assembly">
+  <img src="https://img.youtube.com/vi/j8W4xT0CCKo/hqdefault.jpg" width="640" alt="ROBOTWORLD 2018 PCB Assembly">
 </a>
 
 
