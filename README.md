@@ -3,6 +3,12 @@ ROBOTICS-VISION-COMMUNICATION
 
 솔로몬 - UR로봇 - 그리퍼 - 두산로봇 - 그리퍼 MiR - 그리퍼 - 두산로봇 - LMS
 
+<img width="746" height="418" alt="image" src="https://github.com/user-attachments/assets/d190bc1e-e112-4281-91ad-6e3438cf63f9" />
+
+
+<img width="746" height="418" alt="image" src="https://github.com/user-attachments/assets/08e56bd7-0356-4f5b-bb2d-02b963e4ea40" />
+
+
 <img width="252" height="448" alt="5  솔로몬 두산 LMS 연결 배선 초기" src="https://github.com/user-attachments/assets/2ccf3928-5214-479e-8f41-16fa30560c86" />
 배선
 
