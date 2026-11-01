@@ -1,7 +1,8 @@
 # ROBOTICS-VISION-COMMUNICATION
 ROBOTICS-VISION-COMMUNICATION
 
-<img width="1084" height="362" alt="image" src="https://github.com/user-attachments/assets/878bba96-c7a0-4cbc-9bae-3c268de8a259" />
+<img width="1101" height="357" alt="image" src="https://github.com/user-attachments/assets/e3afdc52-5df4-48cd-9079-d1d4448af580" />
+
 
 <img width="746" height="418" alt="image" src="https://github.com/user-attachments/assets/d190bc1e-e112-4281-91ad-6e3438cf63f9" />
 
