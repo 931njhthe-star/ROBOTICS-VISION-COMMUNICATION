@@ -17,7 +17,7 @@ I integrated a coordinated robotics demonstration system combining a MiR autonom
 
 ## My Role
 
-At INA Oriental Motor, I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
+I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. I worked on system-wide integration and communication, coordinated equipment operation, and prepared and verified the physical connections for the exhibition.
 
 - Integrated the mobile robot, vision system, robot arms, and grippers into one demonstration setup.
 - Coordinated communication and control across the connected equipment.
