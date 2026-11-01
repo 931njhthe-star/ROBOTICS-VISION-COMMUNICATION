@@ -51,35 +51,14 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 [![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
 
 
-
-
-
-
-
-
-Introduction Videos
-
-3D Random Bin Picking
-
-MiR AMR
-
-Doosan Robot
-
-
-
-
-
-
-
-Introduction Videos
-
-3D Random Bin Picking
-
-MiR AMR
-
-Doosan Robot
-
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=j8W4xT0CCKo">
+    <img src="https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg" width="400" alt="ROBOTWORLD 2018 PCB Assembly">
+  </a>
+  <a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
+    <img src="https://img.youtube.com/vi/wLmfVy-GDSs/mqdefault.jpg" width="400" alt="Robotics and 3D Bin Picking">
+  </a>
+</div>
 
 
 
@@ -88,20 +67,29 @@ Doosan Robot
 
 I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately **7,100 views**, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
 
-[![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
-
 ### Robotics & 3D Bin Picking
 
-[![Robotics and 3D Bin Picking](https://img.youtube.com/vi/wLmfVy-GDSs/mqdefault.jpg)](https://www.youtube.com/watch?v=wLmfVy-GDSs)
+Description of the robotics and 3D bin-picking video.
 
-### Additional Video 1
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=RHgJmrWYtLk">
+    <img src="https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg" width="400" alt="Additional video 1">
+  </a>
+  <a href="https://www.youtube.com/watch?v=0BtKEJwmyxo">
+    <img src="https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg" width="400" alt="Additional video 2">
+  </a>
+</div>
 
-[![Additional Video 1](https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg)](https://www.youtube.com/watch?v=RHgJmrWYtLk)
+### Video 3
 
-### Additional Video 2
+Description of the video.
 
-[![Additional Video 2](https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg)](https://www.youtube.com/watch?v=0BtKEJwmyxo)
+### Video 4
 
-### Additional Video 3
+Description of the video.
 
-[![Additional Video 3](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4)
+### Video 5
+
+[![Video 5](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4)
+
+Description of the video.
