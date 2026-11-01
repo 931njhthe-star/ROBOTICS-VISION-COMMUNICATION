@@ -48,7 +48,7 @@ I brought independently controlled robotics and vision equipment together into a
 
 I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately **7,100 views**, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
 
-[![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
+[![ROBOTWORLD 2018 PCB Assembly](https://img.youtube.com/vi/j8W4xT0CCKo/mqdefault.jpg=480x270)](https://www.youtube.com/watch?v=j8W4xT0CCKo)
 
 
 
@@ -59,4 +59,3 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 |---|---|
 | [![Robotics & 3D Bin Picking](https://img.youtube.com/vi/wLmfVy-GDSs/mqdefault.jpg)](https://www.youtube.com/watch?v=wLmfVy-GDSs)<br><br>At INA Oriental Motor, I integrated 3D vision-based object recognition, robot control, and pneumatic gripping into a coordinated bin-picking workflow.<br><br>**Solomon 3D Vision · Doosan Robot · Pneumatic Gripper** | [![Robotics Video](https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg)](https://www.youtube.com/watch?v=RHgJmrWYtLk)<br><br>Add a description of this video.<br><br>**Robotics · System Integration** |
 | [![Robotics Video](https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg)](https://www.youtube.com/watch?v=0BtKEJwmyxo)<br><br>Add a description of this video.<br><br>**Robotics · System Integration** | [![Robotics Video](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4)<br><br>Add a description of this video.<br><br>**Robotics · System Integration** |
-
