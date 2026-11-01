@@ -94,10 +94,14 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 [![Robotics and 3D Bin Picking](https://img.youtube.com/vi/wLmfVy-GDSs/mqdefault.jpg)](https://www.youtube.com/watch?v=wLmfVy-GDSs)
 
-### Additional Videos
+### Additional Video 1
 
-| Video | Thumbnail |
-|---|---|
-| [Video 1](https://www.youtube.com/watch?v=RHgJmrWYtLk) | [![Video 1](https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg)](https://www.youtube.com/watch?v=RHgJmrWYtLk) |
-| [Video 2](https://www.youtube.com/watch?v=0BtKEJwmyxo) | [![Video 2](https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg)](https://www.youtube.com/watch?v=0BtKEJwmyxo) |
-| [Video 3](https://www.youtube.com/watch?v=cSJP_ijoDY4) | [![Video 3](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4) |
+[![Additional Video 1](https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg)](https://www.youtube.com/watch?v=RHgJmrWYtLk)
+
+### Additional Video 2
+
+[![Additional Video 2](https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg)](https://www.youtube.com/watch?v=0BtKEJwmyxo)
+
+### Additional Video 3
+
+[![Additional Video 3](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4)
