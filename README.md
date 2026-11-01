@@ -35,3 +35,92 @@ I brought independently controlled robotics and vision equipment together into a
 <img width="746" alt="Robotics and vision equipment used in the integrated demonstration" src="https://github.com/user-attachments/assets/d190bc1e-e112-4281-91ad-6e3438cf63f9" />
 
 **Equipment:** MiR AMR · Solomon 3D Vision · Doosan Robot Arms · Schunk Pneumatic Grippers
+
+
+
+
+
+
+
+
+Robotics, Vision & Communication Integration
+
+I integrated a robotics demonstration system combining a MiR autonomous mobile robot, Solomon 3D vision, two Doosan robot arms, and two Schunk pneumatic grippers. I coordinated device communication and control, including relay-based connections, Bluetooth digital I/O between the MiR and robot system, and REST API communication with external web clients such as smartphones.
+
+System Configuration
+
+Component
+
+Configuration
+
+Autonomous mobile robot
+
+MiR AMR
+
+3D vision system
+
+Solomon 3D Vision
+
+Industrial robot arms
+
+Two Doosan robots
+
+Grippers
+
+Two Schunk pneumatic grippers
+
+Communication and Wiring
+
+Interface
+
+Connection and purpose
+
+Relay
+
+Used for wiring and signal connections among the robot, grippers, pneumatic equipment, Bluetooth box, and digital I/O.
+
+Bluetooth digital I/O
+
+Connected the MiR and robot system through the Bluetooth box using digital I/O signals.
+
+REST API
+
+Connected external web clients, including smartphones, with the system.
+
+Integration Overview
+
+<img width="1101" alt="Integrated robotics and vision demonstration setup" src="https://github.com/user-attachments/assets/e3afdc52-5df4-48cd-9079-d1d4448af580" />
+
+My Role
+
+I brought independently controlled robotics and vision equipment together into a coordinated demonstration workflow. My work included system-wide integration, coordinating equipment operation, implementing communication links, and preparing and verifying physical connections for the exhibition.
+
+Integrated the mobile robot, vision system, robot arms, pneumatic grippers, and related equipment into one demonstration setup.
+
+Coordinated relay-based wiring and digital I/O signal connections across the equipment.
+
+Connected the MiR and robot system through a Bluetooth box using digital I/O.
+
+Used REST API communication to connect external web clients, such as smartphones, with the system.
+
+Organized and checked system cabling during installation and supported final exhibition setup.
+
+Device Connections and Exhibition Setup
+
+Initial cable routing
+
+Organized connections
+
+Exhibition-day setup
+
+<img width="220" alt="Initial cable routing between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/2ccf3928-5214-479e-8f41-16fa30560c86" />
+
+<img width="220" alt="Organized cabling between the Solomon vision system and Doosan robot controller" src="https://github.com/user-attachments/assets/7fc0e9f2-be73-4037-80d6-06f917404848" />
+
+<img width="220" alt="Cable management on the day of the exhibition" src="https://github.com/user-attachments/assets/81608800-e51b-41e9-90d3-67fe5e3cc689" />
+
+Integrated Equipment
+
+<img width="746" alt="Robotics and vision equipment used in the integrated demonstration" src="https://github.com/user-attachments/assets/d190bc1e-e112-4281-91ad-6e3438cf63f9" />
+
+Equipment: MiR AMR · Solomon 3D Vision · Doosan Robot Arms · Schunk Pneumatic Grippers
