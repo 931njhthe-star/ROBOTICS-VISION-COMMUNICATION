@@ -54,7 +54,7 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 ## INA Oriental Motor — Robotics & 3D Bin Picking
 
-For ROBOTWORLD 2018, I modularized the key stages of the demonstration workflow and **improved execution speed by more than 3×.**
+For ROBOTWORLD 2018, I planned a redesign of the overall system, including changes to the gripper and robot-arm mounting base. I modularized the key stages of the demonstration workflow to improve system stability and **optimized execution speed by more than 3×.**
 
 <a href="https://www.youtube.com/watch?v=wLmfVy-GDSs">
   <img src="https://img.youtube.com/vi/wLmfVy-GDSs/hqdefault.jpg" width="640" alt="Robotics and 3D Bin Picking">
