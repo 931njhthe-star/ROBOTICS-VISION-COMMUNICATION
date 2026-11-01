@@ -63,33 +63,80 @@ I proposed the PCB assembly concept and independently implemented the Doosan rob
 
 
 
-### ROBOTWORLD 2018 — PCB Assembly
 
-I proposed the PCB assembly concept and independently implemented the Doosan robot control. The video received approximately **7,100 views**, the highest among the six Doosan Robotics videos from ROBOTWORLD 2018.
+
+
+
+
+
+
+## Other Robotics & Vision Videos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 3D Random Bin Picking
+
+[![3D Random Bin Picking](https://img.youtube.com/vi/r4SVLZ9_6kI/mqdefault.jpg)](https://www.youtube.com/watch?v=r4SVLZ9_6kI)
+
+Vision-guided random bin picking using 3D object recognition.
+
+**Solomon 3D Vision · Doosan Robot · Pneumatic Gripper**
+
+</td>
+<td width="50%" valign="top">
+
+### MiR AMR Integration
+
+[![MiR AMR Integration](https://img.youtube.com/vi/jG8LQChQEbk/mqdefault.jpg)](https://www.youtube.com/watch?v=jG8LQChQEbk)
+
+A demonstration of the MiR autonomous mobile robot integrated with the robotics system.
+
+**MiR AMR · Bluetooth · Digital I/O**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Robotics & 3D Bin Picking
 
-Description of the robotics and 3D bin-picking video.
+[![Robotics and 3D Bin Picking](https://img.youtube.com/vi/wLmfVy-GDSs/mqdefault.jpg)](https://www.youtube.com/watch?v=wLmfVy-GDSs)
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=RHgJmrWYtLk">
-    <img src="https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg" width="400" alt="Additional video 1">
-  </a>
-  <a href="https://www.youtube.com/watch?v=0BtKEJwmyxo">
-    <img src="https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg" width="400" alt="Additional video 2">
-  </a>
-</div>
+A robotics demonstration combining 3D vision, robot control, and pneumatic gripping.
 
-### Video 3
+**3D Vision · Robot Control · Pneumatic Gripper**
 
-Description of the video.
+</td>
+<td width="50%" valign="top">
 
-### Video 4
+### Additional Robotics Video
 
-Description of the video.
+[![Additional Robotics Video](https://img.youtube.com/vi/RHgJmrWYtLk/mqdefault.jpg)](https://www.youtube.com/watch?v=RHgJmrWYtLk)
 
-### Video 5
+Add a short description of this video.
 
-[![Video 5](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Description of the video.
+### Additional Robotics Video
+
+[![Additional Robotics Video](https://img.youtube.com/vi/0BtKEJwmyxo/mqdefault.jpg)](https://www.youtube.com/watch?v=0BtKEJwmyxo)
+
+Add a short description of this video.
+
+</td>
+<td width="50%" valign="top">
+
+### Additional Robotics Video
+
+[![Additional Robotics Video](https://img.youtube.com/vi/cSJP_ijoDY4/mqdefault.jpg)](https://www.youtube.com/watch?v=cSJP_ijoDY4)
+
+Add a short description of this video.
+
+</td>
+</tr>
+</table>
